@@ -1,6 +1,6 @@
 ## Docker helper
 
-Adds some nice aliases for your daily work.
+Some useful aliases for docker as a oh-my-zsh plugin
 
 ### drm
 Remove all container.
@@ -11,4 +11,8 @@ Remove all images.
 ### drmi-none
 Remove all none tagged images.
 
-Maintainer : Simon Weis ([@detached](https://github.com/detached))
+### dps
+docker ps
+
+### di
+docker images
